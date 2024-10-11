@@ -1,1 +1,1 @@
-# docker
+Este repositório foi criado para ajudar em estudos sobre Docker de maneira prática e eficiente. Ele contém documentações detalhadas sobre conceitos importantes do Docker, além de exemplos práticos para se aprofundar no uso da tecnologia.
